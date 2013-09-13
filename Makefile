@@ -1,5 +1,5 @@
 base = slides
-slidefilename = talk-about-XYZ
+slidefilename = fall-course-2013-intro
 
 .PHONY: git-sha
 
