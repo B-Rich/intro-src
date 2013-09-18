@@ -51,6 +51,13 @@ Grading
 * There will be an exam at the end
 * Last time, everyone passed
 
+.. raw:: latex
+
+   \vspace{1.5cm}
+
+* Not knowing something is OK
+* Not asking, is not OK
+
 Material
 --------
 
