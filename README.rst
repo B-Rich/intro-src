@@ -4,8 +4,7 @@ Introduction to the Fall Course Lausanne (fcl13)
 Description
 -----------
 
-Introduction to the fall course about scientific programming in Lausanne during
-fall 2013.
+Introduction to the 2013 fall course about scientific programming in Lausanne.
 
 
 Dependencies
