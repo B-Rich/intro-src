@@ -202,7 +202,7 @@ Version Control
 * Uses Git?
 
 Installation
-------------
+============
 
 Outline
 -------
@@ -216,6 +216,5 @@ Anaconda
 
 * Python distribution from Continuum Analytics
 * It is what I use
-* Please install it now
-* http://continuum.io/downloads
-* Or grab one of the USB Sticks
+* You may install it now (if you do not have something already)
+* http://continuum.io/downloads (Or grab one of the USB Sticks)
