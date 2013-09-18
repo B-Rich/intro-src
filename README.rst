@@ -1,10 +1,11 @@
-Talk about XYZ
-==============
+Introduction to the Fall Course Lausanne (fcl13)
+================================================
 
 Description
 -----------
 
-Talk template based on rst2beamer.
+Introduction to the fall course about scientific programming in Lausanne.
+
 
 Dependencies
 ------------
