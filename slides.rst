@@ -44,6 +44,13 @@ Schedule
 * I will be around for a few hours after each lecture
 * Feel free to send me email anytime
 
+.. raw:: latex
+
+   \vspace{1cm}
+
+* Use ``valentin@haenel.co``
+* And ``[fcl13]`` in the subject
+
 Grading
 -------
 
