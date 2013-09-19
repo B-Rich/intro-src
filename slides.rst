@@ -20,11 +20,17 @@ About the Speakers
 
 .. raw:: latex
 
-   \vspace{1.5cm}
+   \vspace{1cm}
 
 * Jean-David Picon
 * ...
 * ...
+
+.. raw:: latex
+
+   \vspace{1cm}
+
+* And about yourself?
 
 Formalities
 ===========
